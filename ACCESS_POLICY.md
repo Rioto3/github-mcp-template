@@ -2,7 +2,7 @@
 
 ## リポジトリ基本情報
 
-**デフォルトリポジトリ**: https://github.com/Rioto3/persona-forge-musk
+**デフォルトリポジトリ**: [https://github.com/Rioto3/persona-forge-musk](https://github.com/Rioto3/github-mcp-template)
 
 AIはこのリポジトリからKnowledgeを読み込み、CPMアクセス権限を持つファイルに対しては、明示的な指示があった場合に同リポジトリへの書き込みを行う。別リポジトリへのアクセスが必要な場合は、対話中に明示的に指定する必要がある。
 
